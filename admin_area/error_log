@@ -1,0 +1,4 @@
+[09-Jun-2016 15:43:57 UTC] PHP Fatal error:  Call to undefined function getCats() in /home/trnd9571/public_html/admin_area/delete_item.php on line 150
+[09-Jun-2016 15:45:47 UTC] PHP Fatal error:  Call to undefined function getCats() in /home/trnd9571/public_html/admin_area/delete_item.php on line 150
+[11-Aug-2016 18:31:41 UTC] PHP Parse error:  syntax error, unexpected '$inser_cop' (T_VARIABLE) in /home/trnd9571/public_html/admin_area/insert_coupon.php on line 96
+[11-Aug-2016 18:32:21 UTC] PHP Parse error:  syntax error, unexpected '$insert_cop' (T_VARIABLE) in /home/trnd9571/public_html/admin_area/insert_coupon.php on line 96
